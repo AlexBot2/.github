@@ -2,7 +2,7 @@
   <img width="100" src="https://raw.githubusercontent.com/AtomLabss/.github/main/assets/images/atomgg.png?s=200&v=4" />
 </p>
 
-<h1 align="center">AtomLabs / Atom</h1>
+<h1 align="center">Alex</h1>
 
 <h1 align="center">
     <p align="center">
