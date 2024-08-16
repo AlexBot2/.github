@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/AtomLabss/.github/main/assets/images/atomgg.png?s=200&v=4" />
+  <img width="100" src="https://github.com/AlexBot2/.github/blob/main/3379e65ac5f28bd6a7378bc087a2b70b.png?raw=true" />
 </p>
 
 <h1 align="center">Alex</h1>
@@ -7,15 +7,11 @@
 <h1 align="center">
     <p align="center">
         <a href="https://discord.gg/PFrWHjE9fR">
-        <img src="https://img.shields.io/discord/1252393773468745852?color=7489d5&logo=discord&logoColor=ffffff" />
-        </a>
-        <img src="https://img.shields.io/static/v1?label=status&message=beta&color=blue">
-        <img src="https://img.shields.io/badge/servers-50+-orange">
-        <img src="https://img.shields.io/badge/users-76,000+-red">
+        <img src="https://img.shields.io/discord/1253839786729541632?color=7489d5&logo=discord&logoColor=ffffff" />
     </p>
 </h1>
 
-### [About](https://atomgg.ddns.net/)
+### About
 
 Alex is a free to use, moderation, Discord bot.
 
