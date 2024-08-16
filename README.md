@@ -13,7 +13,7 @@
 
 ### About
 
-Alex is a free to use, moderation, Discord bot.
+Alex is a free to use, moderation Discord bot.
 
 * **⚡ Commands** (We have a large variety of commands for you to manage and control your server with, increasing everyday.)
 * **✉️ 24/7 Support** (Our own support team, willing to help you out, every step of the way.)
