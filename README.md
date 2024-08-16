@@ -7,7 +7,7 @@
 <h1 align="center">
     <p align="center">
         <a href="https://discord.gg/PFrWHjE9fR">
-        <img src="https://img.shields.io/discord/1253839786729541632?color=7489d5&logo=discord&logoColor=ffffff" />
+        <img src="https://img.shields.io/discord/1257793590957178983?color=7489d5&logo=discord&logoColor=ffffff" />
     </p>
 </h1>
 
